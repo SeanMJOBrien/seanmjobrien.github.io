@@ -14,24 +14,14 @@
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T10:01:00-07:00</published>
-    <updated>2015-08-06T10:57:29-07:00</updated>
+    <updated>2015-08-06T11:02:01-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h1 id="testing-1-2-3"&gt;Testing 1 2 3…&lt;/h1&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
-    <id>http://blog.url.com/2012/01/01/example-article.html</id>
-    <published>2011-12-31T16:00:00-08:00</published>
-    <updated>2015-08-06T10:08:25-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+&lt;p&gt;This is my first blog post. This is middleman built html using markdown language in a text file.&lt;/p&gt;
+
 </content>
   </entry>
 </feed>
