@@ -14,11 +14,12 @@
     <link rel="alternate" href="http://blog.url.com/2015/08/06/hello-world.html"/>
     <id>http://blog.url.com/2015/08/06/hello-world.html</id>
     <published>2015-08-06T10:01:00-07:00</published>
-    <updated>2015-08-06T10:08:25-07:00</updated>
+    <updated>2015-08-06T10:57:29-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">
+    <content type="html">&lt;h1 id="testing-1-2-3"&gt;Testing 1 2 3…&lt;/h1&gt;
+
 </content>
   </entry>
   <entry>
